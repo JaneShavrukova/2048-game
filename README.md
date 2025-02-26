@@ -1,6 +1,6 @@
 # 🎮 2048 Game
 
-A JavaScript implementation of the classic **2048** game, where players merge tiles to reach the **2048** tile. The game is built using vanilla JavaScript, HTML, and SCSS, with a focus on clean code structure and smooth gameplay mechanics.
+A JavaScript implementation of the classic 2048 game, where players merge tiles to reach the 2048 tile. The game is built using vanilla JavaScript, HTML, and SCSS, with a focus on clean code structure and smooth gameplay mechanics.
 
 ## 🌐 Demo
 🔗 [Live Preview](https://janeshavrukova.github.io/2048-game/)
@@ -56,7 +56,7 @@ This project is inspired by the original 2048 game mechanics.
 🎉 Enjoy the game and good luck reaching 2048! 🏆
 
 ## 🕹️ How to Play
-- Merge tiles by moving them with **arrow keys**.
-- Identical tiles **merge into one**, doubling their value.
-- Reach **2048** to win, or keep playing for a high score!
-- Game ends when **no moves are left**.
+- Merge tiles by moving them with arrow keys.
+- Identical tiles merge into one, doubling their value.
+- Reach 2048 to win, or keep playing for a high score!
+- Game ends when no moves are left.
